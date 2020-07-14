@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "32856798682",
+    "firebase_url": "https://autoplant-b5120.firebaseio.com",
+    "project_id": "autoplant-b5120",
+    "storage_bucket": "autoplant-b5120.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32856798682:android:7a0b71f798d82f3fa47ce3",
+        "android_client_info": {
+          "package_name": "com.example.iot_autoplant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32856798682-igt0gsda9gdr0vf0m6sok05d5i8blrsr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXEsdwN1W2OhMQ70fWUNIi3nc3NzS-fRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32856798682-igt0gsda9gdr0vf0m6sok05d5i8blrsr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
